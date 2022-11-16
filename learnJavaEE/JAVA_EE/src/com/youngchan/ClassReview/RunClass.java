@@ -3,7 +3,7 @@ package com.youngchan.ClassReview;
 import com.youngchan.ClassReview.animaltest.Animal;
 import com.youngchan.ClassReview.animaltest.Cat;
 import com.youngchan.ClassReview.animaltest.Dog;
-import com.youngchan.studentmanagement.Student;
+import com.youngchan.management.domain.Student;
 
 /**
  * @author youngchan

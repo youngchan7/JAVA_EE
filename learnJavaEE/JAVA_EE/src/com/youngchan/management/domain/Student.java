@@ -1,4 +1,4 @@
-package com.youngchan.studentmanagement;
+package com.youngchan.management.domain;
 
 /**
  * @author youngchan
@@ -8,9 +8,6 @@ package com.youngchan.studentmanagement;
  * @Description //TODO
  */
 public class Student {
-    private String phoneNum;
-    private String classNo;
-    private String addr;
     private String uId;
     private String name ;
 

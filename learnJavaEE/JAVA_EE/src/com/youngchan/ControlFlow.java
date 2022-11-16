@@ -431,7 +431,7 @@ public class ControlFlow {
                     break Go;
                 }
             }
-            System.out.println("执行g1o内语句结束");
+            System.out.println("执行go内语句结束");
         }
         System.out.println("执行go语句外语句");
 
