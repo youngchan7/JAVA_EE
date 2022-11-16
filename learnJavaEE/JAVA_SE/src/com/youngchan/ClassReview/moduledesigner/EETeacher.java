@@ -1,4 +1,4 @@
-package com.youngchan.ClassReview.modledesigner;
+package com.youngchan.ClassReview.moduledesigner;
 
 /**
  * @author youngchan
@@ -13,4 +13,9 @@ public class EETeacher extends ModleClass{
   public void teach() {
     System.out.println("基础班老师讲JavaEE");
   }
+
+  public EETeacher(String name, int age) {
+    super(name, age);
+  }
+
 }

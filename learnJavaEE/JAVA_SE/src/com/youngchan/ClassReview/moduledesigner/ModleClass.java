@@ -1,4 +1,4 @@
-package com.youngchan.ClassReview.modledesigner;
+package com.youngchan.ClassReview.moduledesigner;
 
 /**
  * @author youngchan

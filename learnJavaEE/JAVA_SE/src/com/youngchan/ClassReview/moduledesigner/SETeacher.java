@@ -1,4 +1,4 @@
-package com.youngchan.ClassReview.modledesigner;
+package com.youngchan.ClassReview.moduledesigner;
 
 /**
  * @author youngchan
@@ -12,5 +12,9 @@ public class SETeacher extends ModleClass{
   @Override
   public void teach() {
     System.out.println("基础班老师讲JavaSE");
+  }
+
+  public SETeacher(String name, int age) {
+    super(name, age);
   }
 }
