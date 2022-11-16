@@ -7,15 +7,11 @@ package com.youngchan.management.domain;
  * @date 2022/11/16 16:20
  * @Description //TODO
  */
-public class Teacher {
+public class Teacher extends Person{
   private String phoneNum;
   private String addr;
   private String uId;
-  private String name ;
-  private String gender;
-  private double height;
-  private double weight;
-  private int age;
+
 
   public Teacher() {
   }
@@ -26,11 +22,11 @@ public class Teacher {
     this.phoneNum = phoneNum;
     this.addr = addr;
     this.uId = uId;
-    this.name = name;
-    this.gender = gender;
-    this.height = height;
-    this.weight = weight;
-    this.age = age;
+    this.setName(name);
+    this.setGender(gender);
+    this.setHeight(height);
+    this.setWeight(weight);
+    this.setAge(age);
   }
 
   public String getPhoneNum() {
@@ -57,43 +53,4 @@ public class Teacher {
     this.uId = uId;
   }
 
-  public String getName() {
-    return name;
-  }
-
-  public void setName(String name) {
-    this.name = name;
-  }
-
-  public String getGender() {
-    return gender;
-  }
-
-  public void setGender(String gender) {
-    this.gender = gender;
-  }
-
-  public double getHeight() {
-    return height;
-  }
-
-  public void setHeight(double height) {
-    this.height = height;
-  }
-
-  public double getWeight() {
-    return weight;
-  }
-
-  public void setWeight(double weight) {
-    this.weight = weight;
-  }
-
-  public int getAge() {
-    return age;
-  }
-
-  public void setAge(int age) {
-    this.age = age;
-  }
 }

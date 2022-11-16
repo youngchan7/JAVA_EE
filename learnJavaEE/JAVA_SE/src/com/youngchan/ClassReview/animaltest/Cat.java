@@ -16,10 +16,7 @@ public class Cat extends Animal{
   public Cat() {
   }
 
-  @Override
-  public void eat() {
-    System.out.println(sayOut()+"正在吃鱼.....");
-  }
+
   public void catchMouse(){
     System.out.println(sayOut()+"正在逮老鼠....");
   }
@@ -30,5 +27,10 @@ public class Cat extends Animal{
 
   @Override public void setType(String type) {
     this.type = type;
+  }
+
+  @Override
+  public void eat() {
+    System.out.println(sayOut()+"正在吃鱼.....");
   }
 }

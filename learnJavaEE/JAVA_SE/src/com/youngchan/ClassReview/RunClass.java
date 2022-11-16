@@ -40,6 +40,7 @@ public class RunClass {
     System.out.println(a == c.intern());
     System.out.println(a.equals(c));
 
+
     Cat cat = new Cat("花色", "波斯");
     System.out.println(cat.getType());
     Animal cat2 = new Cat("花色", "波斯");

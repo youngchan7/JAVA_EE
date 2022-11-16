@@ -17,12 +17,12 @@ public class StaticReview {
 //    静态代码块 和静态成员变量 只执行一次
 //    System.out.println(Father.i);
 //    Father. speak();
-//    Father a = new Son();
-//    a.speak1();
-    new InnerClass().iNomal = 10;
-    InnerClass.iStatic = 20;
-    new StaticInClassnClass.InnerClass().nomalMethod();
-    InnerClass.staticMethod();
+    Father a = new Son();
+    a.speak1();
+//    new InnerClass().iNomal = 10;
+//    InnerClass.iStatic = 20;
+//    new StaticInClassnClass.InnerClass().nomalMethod();
+//    InnerClass.staticMethod();
   }
 
 }

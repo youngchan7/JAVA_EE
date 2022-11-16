@@ -9,16 +9,14 @@ import java.util.Objects;
  * @date 2022/11/14 17:23
  * @Description //TODO
  */
-public class Animal implements AnimalBehavior {
+public abstract class Animal implements AnimalBehavior {
     private String type ;
     private String color;
     private String breed;
 
 
     @Override
-    public void eat() {
-        System.out.println("动物吃饭");
-    }
+    public abstract void eat();
 
     @Override
     public String sayOut() {

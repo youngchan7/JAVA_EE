@@ -13,7 +13,13 @@ import java.util.stream.Collectors;
  * @Description //TODO
  */
 public class StudentDao {
-private static List<Student> studentList = new ArrayList<>();
+  private static List<Student> studentList = new ArrayList<>();
+  static{
+    studentList.add(new Student("001","张三",21,"男",178.5,65));
+    studentList.add(new Student("002","李四",25,"女",174.5,54));
+    studentList.add(new Student("003","王五",26,"男",182.5,75));
+  }
+
   public void removeById(String uId) {
     int index = 0;
     for (int i = 0; i < studentList.size(); i++) {
