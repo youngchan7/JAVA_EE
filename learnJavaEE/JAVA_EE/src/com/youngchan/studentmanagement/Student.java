@@ -9,6 +9,7 @@ package com.youngchan.studentmanagement;
  */
 public class Student {
     private String phoneNum;
+    private String addr;
     private String uId;
     private String name ;
 
