@@ -1,6 +1,8 @@
-package com.youngchan.management.repository;
+package com.youngchan.management.repository.impl;
 
+import com.youngchan.management.domain.Person;
 import com.youngchan.management.domain.Student;
+import com.youngchan.management.repository.IStudentDao;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -12,7 +14,7 @@ import java.util.stream.Collectors;
  * @date 2022/11/16 16:21
  * @Description //TODO
  */
-public class StudentDao {
+public class StudentDao extends BaseManagerDao implements IStudentDao {
   private static List<Student> studentList = new ArrayList<>();
   static{
     studentList.add(new Student("001","张三",21,"男",178.5,65));
@@ -39,24 +41,24 @@ public class StudentDao {
     studentList.add(stu);
   }
 
-  public List<Student> searchStudentByUid(String stuId) {
+  public List<Student> searchByUid(String stuId) {
     return studentList.stream().filter(a -> a.getuId().equals(stuId)).collect(Collectors.toList());
   }
 
-  public List<Student> searchStudentByName(String stuName) {
+  public List<Student> searchByName(String stuName) {
     return studentList.stream().filter(a -> a.getName().equals(stuName)).collect(Collectors.toList());
   }
 
-  public List<Student> searchStudentByAge(String stuAge) {
+  public List<Student> searchByAge(String stuAge) {
     return studentList.stream().filter(a -> a.getAge() == Integer.parseInt(stuAge)).collect(Collectors.toList());
 
   }
 
-  public List<Student> searchStudentByGender(String stuGender) {
+  public List<Student> searchByGender(String stuGender) {
     return studentList.stream().filter(a -> a.getGender().equals(stuGender)).collect(Collectors.toList());
   }
 
-  public void addStu(Student stu) {
+  public void add(Student stu) {
     studentList.add(stu);
   }
 }

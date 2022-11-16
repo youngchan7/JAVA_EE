@@ -1,6 +1,7 @@
 package com.youngchan.ClassReview;
 
 import com.youngchan.ClassReview.animaltest.Animal;
+import com.youngchan.ClassReview.animaltest.AnimalBehavior;
 import com.youngchan.ClassReview.animaltest.Cat;
 import com.youngchan.ClassReview.animaltest.Dog;
 import com.youngchan.management.domain.Student;
@@ -31,15 +32,20 @@ public class RunClass {
    * @param  null
    **/
   private static void coursewareAnimal() {
-    String a = "123";
-    String b = "12";
-    String c = b+"3";
-    String d = "12"+"3";
-    System.out.println(a == c);
-    System.out.println(a == d);
-    System.out.println(a == c.intern());
-    System.out.println(a.equals(c));
+//    String a = "123";
+//    String b = "12";
+//    String c = b+"3";
+//    String d = "12"+"3";
+//    System.out.println(a == c);
+//    System.out.println(a == d);
+//    System.out.println(a == c.intern());
+//    System.out.println(a.equals(c));
 
+    AnimalBehavior catInterface = new Cat("花色", "波斯");
+    catInterface.testDefaultMethod();
+    AnimalBehavior.staticMethod();
+    catInterface.eat();
+    catInterface.sayOut();
 
     Cat cat = new Cat("花色", "波斯");
     System.out.println(cat.getType());

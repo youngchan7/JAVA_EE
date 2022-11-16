@@ -1,7 +1,7 @@
 package com.youngchan.management.service;
 
 import com.youngchan.management.domain.Student;
-import com.youngchan.management.repository.StudentDao;
+import com.youngchan.management.repository.impl.StudentDao;
 import java.util.List;
 
 /**
@@ -14,19 +14,19 @@ import java.util.List;
 public class StudentService {
   StudentDao dao = new StudentDao();
   public List<Student> searchStudentByUid(String stuId) {
-    return dao.searchStudentByUid(stuId); }
+    return dao.searchByUid(stuId); }
 
   public List<Student> searchStudentByName(String stuName) {
-    return  dao.searchStudentByName(stuName);
+    return  dao.searchByName(stuName);
   }
 
   public List<Student> searchStudentByAge(String stuAge) {
-    return  dao.searchStudentByAge(stuAge);
+    return  dao.searchByAge(stuAge);
   }
 
   public List<Student> searchStudentByGender(String stuGender) {
     List<Student> studentList = getAll();
-    return dao.searchStudentByGender(stuGender) ;
+    return dao.searchByGender(stuGender) ;
   }
 
   public boolean ifRepeat(String uId) {
@@ -47,6 +47,6 @@ public class StudentService {
   }
 
   public void addStudent(Student stu) {
-    dao.addStu(stu);
+    dao.add(stu);
   }
 }

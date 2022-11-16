@@ -1,7 +1,7 @@
 package com.youngchan.management.service;
 
 import com.youngchan.management.domain.Teacher;
-import com.youngchan.management.repository.TeacherDao;
+import com.youngchan.management.repository.impl.TeacherDao;
 import java.util.List;
 
 /**
@@ -16,15 +16,15 @@ public class TeacherService {
   TeacherDao dao = new TeacherDao();
 
   public List<Teacher> searchTeacherByUid(String stuId) {
-    return dao.searchTeacherByUid(stuId);
+    return dao.searchByUid(stuId);
   }
 
   public List<Teacher> searchTeacherByName(String stuName) {
-    return dao.searchTeacherByName(stuName);
+    return dao.searchByName(stuName);
   }
 
   public List<Teacher> searchTeacherByAge(String stuAge) {
-    return dao.searchTeacherByAge(stuAge);
+    return dao.searchByAge(stuAge);
   }
 
   public List<Teacher> searchTeacherByGender(String stuGender) {
@@ -50,6 +50,6 @@ public class TeacherService {
   }
 
   public void addTeacher(Teacher teacher) {
-    dao.addTeacher(teacher);
+    dao.add(teacher);
   }
 }

@@ -8,6 +8,12 @@ package com.youngchan.ClassReview.animaltest;
  * @Description //TODO
  */
 public interface AnimalBehavior {
+    default void testDefaultMethod(){
+        System.out.println("这是默认方法");
+    }
+    static void staticMethod(){
+        System.out.println("这是静态方法");
+    }
     void eat();
     String sayOut();
 }

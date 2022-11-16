@@ -1,6 +1,7 @@
-package com.youngchan.management.repository;
+package com.youngchan.management.repository.impl;
 
 import com.youngchan.management.domain.Teacher;
+import com.youngchan.management.repository.ITeacherDao;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -12,17 +13,17 @@ import java.util.stream.Collectors;
  * @date 2022/11/16 16:21
  * @Description //TODO
  */
-public class TeacherDao {
+public class TeacherDao extends BaseManagerDao implements ITeacherDao {
 private static  List<Teacher> teacherList = new ArrayList<>();
-  public List<Teacher> searchTeacherByUid(String stuId) {
+  public List<Teacher> searchByUid(String stuId) {
     return teacherList.stream().filter(a -> a.getuId().equals(stuId)).collect(Collectors.toList());
   }
 
-  public List<Teacher> searchTeacherByName(String stuName) {
+  public List<Teacher> searchByName(String stuName) {
     return teacherList.stream().filter(a -> a.getName().equals(stuName)).collect(Collectors.toList());
   }
 
-  public List<Teacher> searchTeacherByAge(String stuAge) {
+  public List<Teacher> searchByAge(String stuAge) {
     return teacherList.stream().filter(a -> a.getAge() == Integer.parseInt(stuAge)).collect(Collectors.toList());
 
   }
@@ -50,7 +51,7 @@ private static  List<Teacher> teacherList = new ArrayList<>();
     return teacherList;
   }
 
-  public void addTeacher(Teacher teacher) {
+  public void add(Teacher teacher) {
     teacherList.add(teacher);
   }
 }
