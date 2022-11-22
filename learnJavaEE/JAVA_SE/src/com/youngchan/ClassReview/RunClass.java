@@ -16,10 +16,12 @@ import com.youngchan.management.domain.Student;
 public class RunClass {
 
   public static void main(String[] args) {
+//    普通对象的使用
 //        testPhone();
+//    对象的地址值  前面是类的全限定域名 后面是虚拟的内存地址
 //        testPrintAddr();
+//     普通对象的使用
 //        courseware();
-    coursewareAnimal();
   }
 
   /**
@@ -31,32 +33,7 @@ public class RunClass {
    * @Date 17:42 2022/11/14
    * @param  null
    **/
-  private static void coursewareAnimal() {
-//    String a = "123";
-//    String b = "12";
-//    String c = b+"3";
-//    String d = "12"+"3";
-//    System.out.println(a == c);
-//    System.out.println(a == d);
-//    System.out.println(a == c.intern());
-//    System.out.println(a.equals(c));
 
-    AnimalBehavior catInterface = new Cat("花色", "波斯");
-    catInterface.testDefaultMethod();
-    AnimalBehavior.staticMethod();
-    catInterface.eat();
-    catInterface.sayOut();
-
-    Cat cat = new Cat("花色", "波斯");
-    System.out.println(cat.getType());
-    Animal cat2 = new Cat("花色", "波斯");
-    System.out.println(cat2.getType());
-    cat2.eat();
-    cat.catchMouse();
-    Dog dog = new Dog("黑色", "藏獒");
-    dog.eat();
-    dog.catchMouse();
-  }
 
   private static void courseware() {
     GirlFriend myGirl = new GirlFriend("lady", 170, 55);

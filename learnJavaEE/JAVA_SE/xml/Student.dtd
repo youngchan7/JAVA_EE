@@ -1,0 +1,11 @@
+<!--节点 子节点-->
+<!ELEMENT Students (student+,message)>
+<!ELEMENT student (gender,name,weight,height)>
+<!ELEMENT message (#PCDATA)>
+<!ELEMENT gender (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT weight (#PCDATA)>
+<!ELEMENT height (#PCDATA)>
+<!--属性-->
+<!ATTLIST student uId CDATA #REQUIRED>
+<!ATTLIST student age CDATA #REQUIRED>

@@ -7,7 +7,7 @@ import java.util.Objects;
  * @version V1.0
  * @Package com.youngchan.ClassReview
  * @date 2022/11/14 17:23
- * @Description //TODO
+ * @Description //继承  行为接口  的抽象类 动物接口
  */
 public abstract class Animal implements AnimalBehavior {
     private String type ;

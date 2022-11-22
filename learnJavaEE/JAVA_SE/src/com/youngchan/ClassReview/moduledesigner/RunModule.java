@@ -5,7 +5,7 @@ package com.youngchan.ClassReview.moduledesigner;
  * @version V1.0
  * @Package com.youngchan.ClassReview.modledesigner
  * @date 2022/11/16 21:12
- * @Description //TODO
+ * @Description // 多态练习
  */
 public class RunModule {
 

@@ -5,7 +5,7 @@ package com.youngchan.ClassReview.animaltest;
  * @version V1.0
  * @Package com.youngchan.ClassReview.animaltest
  * @date 2022/11/14 17:25
- * @Description //TODO
+ * @Description //动物行为接口    接口   默认方法（系统升级时通用方法的创建）  静态方法
  */
 public interface AnimalBehavior {
     default void testDefaultMethod(){

@@ -5,7 +5,8 @@ package com.youngchan.ClassReview.StaticClass;
  * @version V1.0
  * @Package com.youngchan.ClassReview.StaticClass
  * @date 2022/11/16 16:00
- * @Description //TODO
+ * @Description //内部类 可以直接使用外部类的成员变量和成员方法
+ * 如果是静态内部类 可以直接使用外部的静态变量和静态方法
  */
 public class StaticInClassnClass {
 

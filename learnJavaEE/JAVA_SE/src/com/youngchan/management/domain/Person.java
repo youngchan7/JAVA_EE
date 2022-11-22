@@ -1,5 +1,7 @@
 package com.youngchan.management.domain;
 
+import java.io.Serializable;
+
 /**
  * @author youngchan
  * @version V1.0
@@ -7,11 +9,12 @@ package com.youngchan.management.domain;
  * @date 2022/11/16 18:30
  * @Description //TODO
  */
-public class Person {
+public class Person implements Serializable {
+  private static final long serialVersionUID = 1L;
   private String name ;
 
   private String gender;
-  private double height;
+  private transient double height;
   private double weight;
   private int age;
 
@@ -54,5 +57,10 @@ public class Person {
 
   public void setWeight(double weight) {
     this.weight = weight;
+  }
+
+  @Override public String toString() {
+    return "Person{" + "name='" + name + '\'' + ", gender='" + gender + '\'' + ", height=" + height + ", weight="
+        + weight + ", age=" + age + '}';
   }
 }

@@ -5,7 +5,7 @@ package com.youngchan.ClassReview.animaltest;
  * @version V1.0
  * @Package com.youngchan.ClassReview.animaltest
  * @date 2022/11/14 17:28
- * @Description //TODO
+ * @Description //猫 类  继承动物抽象类 重写 eat方法 独有抓老鼠方法
  */
 public class Cat extends Animal{
   private String type = "不是猫";

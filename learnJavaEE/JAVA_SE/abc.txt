@@ -1,0 +1,31 @@
+包：
+java.lang.Object java.net.Socket
+
+构造：
+Socket(InetAddress address, int port) 创建流套接字并将其连接到指定IP地址的指定端口号。
+
+
+方法：
+方法：
+OutputStream getOutputStream() 返回此套接字的输出流。 客户端
+InputStream getInputStream() 返回此套接字的输入流。 服务端
+void close()  关闭此套接字
+void shutdownInput() 将此套接字的输入流放置在“流的末尾”。
+void shutdownOutput() 禁用此套接字的输出流。
+
+ps：
+InputStream.read()方法也是阻塞的 没有读到结束标记不会继续执行
+OutputStream.close() 有往服务器写结束标记的动作
+两个流也不能主动结束 当需要交互时 需要使用shutdowInput()/shutdownOutput()
+
+包：
+java.net Class ServerSocket
+
+构造：
+ServerSocket(int port) 创建绑定到指定端口的服务器套接字。
+
+方法：
+Socket accept() 侦听要连接到此套接字并接受它。   阻塞 等待客户端连接
+
+
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--dtd 约束引用-->
+<!--<!DOCTYPE Students SYSTEM "Student.dtd">-->
+<!--scheam 约束 在跟标签  固定写法  引用的命名空间 引用的文件（名称空间，url 路径）-->
+<Students
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://www.youngchan.com/javase"
+        xsi:schemaLocation="http://www.youngchan.com/javase Student.xsd">
+
+
+<!--<Students>-->
+    <student uId = '001' age ='16'>
+          <gender>女</gender>
+          <name>不晓得</name>
+          <weight>50</weight>
+          <height>172</height>
+    </student>
+   <!-- <student uId = '002' age ='28'>
+        <gender>男</gender>
+        <name>不清楚</name>
+        <weight>55</weight>
+        <height>178</height>
+    </student>
+    <student uId = '003' age ='20'>
+        <gender>男</gender>
+        <name>不明白</name>
+        <weight>66</weight>
+        <height>176</height>
+    </student>-->
+    <message><![CDATA[这是一串备注信息 ]]></message>
+</Students>

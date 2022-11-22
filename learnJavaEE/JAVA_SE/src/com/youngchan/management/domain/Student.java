@@ -1,5 +1,9 @@
 package com.youngchan.management.domain;
 
+import java.io.Serializable;
+import java.math.BigDecimal;
+import java.util.Objects;
+
 /**
  * @author youngchan
  * @version V1.0
@@ -7,8 +11,31 @@ package com.youngchan.management.domain;
  * @date 2022/11/14 15:08
  * @Description //TODO
  */
-public class Student extends Person{
+public class Student extends Person implements Serializable {
+    private static final long serialVersionUID = 1L;
     private String uId;
+
+
+    @Override
+    public String toString() {
+        return "Student{" +
+            "uId='" + uId + '\'' +
+            ", '" + super.toString() + '\'' +
+            '}';
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) {
+            return true;
+        }
+        if (o == null || getClass() != o.getClass()) {
+            return false;
+        }
+        Student student = (Student) o;
+        return uId.equals(student.uId);
+    }
+
 
 
     public Student(String uId, String name, int age, String gender, double height, double weight) {
@@ -32,5 +59,8 @@ public class Student extends Person{
     public Student() {
     }
 
-
+    @Override
+    protected Object clone() throws CloneNotSupportedException {
+        return super.clone();
+    }
 }
