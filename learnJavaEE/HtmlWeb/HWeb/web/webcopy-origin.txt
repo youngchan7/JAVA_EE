@@ -1,0 +1,824 @@
+Uri: https://file03.16sucai.com/web/2016/12/005/
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\index.htm
+Content Type: text/html
+
+Uri: https://file03.16sucai.com/web/2016/12/005/404.html
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\404.html
+Content Type: text/html
+
+Uri: https://file03.16sucai.com/web/2016/12/005/about.html
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\about.html
+Content Type: text/html
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/css/color.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\css\color.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/css/index.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\css\index.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/css/master.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\css\master.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/css/responsive.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/css/theme.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\css\theme.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/downloads/doc-2.pdf
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\downloads\doc-2.pdf
+Content Type: application/pdf
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/elegant/fonts/ElegantIcons.eot
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\elegant\fonts\ElegantIcons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/elegant/fonts/ElegantIcons.eot?
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\elegant\fonts\ElegantIcons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/elegant/fonts/ElegantIcons.svg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\elegant\fonts\ElegantIcons.svg
+Content Type: image/svg+xml
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/elegant/fonts/ElegantIcons.ttf
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\elegant\fonts\ElegantIcons.ttf
+Content Type: application/octet-stream
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/elegant/fonts/ElegantIcons.woff
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\elegant\fonts\ElegantIcons.woff
+Content Type: font/x-woff
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/elegant/style.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\elegant\style.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/flaticon/flaticon.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\flaticon\flaticon.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/flaticon/Flaticon.eot
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\flaticon\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/flaticon/Flaticon.eot?
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\flaticon\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/flaticon/Flaticon.svg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\flaticon\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/flaticon/Flaticon.ttf
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\flaticon\Flaticon.ttf
+Content Type: application/octet-stream
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/flaticon/Flaticon.woff
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\flaticon\Flaticon.woff
+Content Type: font/x-woff
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/font-awesome-4.6.3/css/font-awesome.min.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\font-awesome-4.6.3\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/font-awesome-4.6.3/fonts/fontawesome-webfont.eot?
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\font-awesome-4.6.3\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/font-awesome-4.6.3/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\font-awesome-4.6.3\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/font-awesome-4.6.3/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\font-awesome-4.6.3\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/font-awesome-4.6.3/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\font-awesome-4.6.3\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/font-awesome-4.6.3/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\font-awesome-4.6.3\fonts\fontawesome-webfont.woff
+Content Type: font/x-woff
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/simple/fonts/Simple-Line-Icons.eot
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\simple\fonts\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/simple/fonts/Simple-Line-Icons.eot?
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\simple\fonts\Simple-Line-Icons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/simple/fonts/Simple-Line-Icons.svg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\simple\fonts\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/simple/fonts/Simple-Line-Icons.ttf
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\simple\fonts\Simple-Line-Icons.ttf
+Content Type: application/octet-stream
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/simple/fonts/Simple-Line-Icons.woff
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\simple\fonts\Simple-Line-Icons.woff
+Content Type: font/x-woff
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/simple/simple-line-icons.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\simple\simple-line-icons.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/stroke/fonts/Stroke-Gap-Icons.eot
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\stroke\fonts\Stroke-Gap-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/fonts/stroke/style.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\fonts\stroke\style.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/js/custom.js
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\js\custom.js
+Content Type: application/javascript
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/js/map-custom.js
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\js\map-custom.js
+Content Type: application/javascript
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/libs/bootstrap/bootstrap.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\libs\bootstrap\bootstrap.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/libs/bootstrap/bootstrap.min.js
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\libs\bootstrap\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/libs/jquery-1.12.4.min.js
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\libs\jquery-1.12.4.min.js
+Content Type: application/javascript
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/accordion/1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\accordion\1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-404/bg-1.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-404\bg-1.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-advertisement/bg-1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-advertisement\bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-blockquote/face-1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-blockquote\face-1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-brands/logo-1.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-brands\logo-1.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-brands/logo-2.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-brands\logo-2.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-brands/logo-3.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-brands\logo-3.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-brands/logo-4.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-brands\logo-4.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-brands/logo-5.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-brands\logo-5.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-events/262x390_1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-events\262x390_1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-events/262x390_2.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-events\262x390_2.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-events/262x390_3.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-events\262x390_3.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-events/262x390_4.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-events\262x390_4.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-events/555x390_1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-events\555x390_1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-info-section/1.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-info-section\1.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-info-section/2.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-info-section\2.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-main-slider/bg-1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-main-slider\bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-main-slider/bg-2.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-main-slider\bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-main-slider/item-1.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-main-slider\item-1.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-main-slider/item-2.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-main-slider\item-2.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-main-slider/item-3.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-main-slider\item-3.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-team/1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-team\1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-team/2.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-team\2.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-team/3.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-team\3.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-team/4.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-team\4.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/b-title-page/bg-1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\b-title-page\bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/footer/gallery-1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\footer\gallery-1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/footer/gallery-2.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\footer\gallery-2.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/footer/gallery-3.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\footer\gallery-3.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/footer/gallery-4.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\footer\gallery-4.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/footer/gallery-5.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\footer\gallery-5.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/components/footer/gallery-6.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\components\footer\gallery-6.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/340x665/1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\340x665\1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/360x460/1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\360x460\1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/960x750/1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\960x750\1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/960x750/2.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\960x750\2.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/960x783/1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\960x783\1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/gallery/480x290/1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\gallery\480x290\1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/gallery/480x290/2.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\gallery\480x290\2.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/gallery/480x290/3.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\gallery\480x290\3.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/gallery/480x290/4.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\gallery\480x290\4.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/gallery/480x290/5.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\gallery\480x290\5.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/gallery/480x290/6.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\gallery\480x290\6.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/gallery/480x290/7.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\gallery\480x290\7.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/gallery/480x290/8.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\gallery\480x290\8.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/posts/292x300/1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\posts\292x300\1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/posts/322x180/1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\posts\322x180\1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/posts/322x180/2.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\posts\322x180\2.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/posts/322x180/3.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\posts\322x180\3.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/posts/322x180/4.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\posts\322x180\4.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/posts/322x180/5.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\posts\322x180\5.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/posts/322x180/6.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\posts\322x180\6.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/posts/322x180/7.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\posts\322x180\7.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/posts/380x290/1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\posts\380x290\1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/posts/380x290/2.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\posts\380x290\2.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/posts/380x290/3.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\posts\380x290\3.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/posts/780x350/1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\posts\780x350\1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/posts/780x350/2.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\posts\780x350\2.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/posts/780x350/3.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\posts\780x350\3.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/posts/780x350/4.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\posts\780x350\4.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/posts/780x400/1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\posts\780x400\1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/posts/90x80/1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\posts\90x80\1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/posts/90x80/2.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\posts\90x80\2.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/posts/90x80/3.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\posts\90x80\3.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/posts/about-author/1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\posts\about-author\1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/posts/face/1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\posts\face\1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/content/posts/face/2.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\content\posts\face\2.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/general/bg/1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\general\bg\1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/general/bg/2.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\general\bg\2.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/general/bg/3.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\general\bg\3.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/general/bg/4.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\general\bg\4.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/general/demo-page/mac.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\general\demo-page\mac.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/general/label-vertical.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\general\label-vertical.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/general/logo-dark.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\general\logo-dark.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/general/logo.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\general\logo.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/general/preview/01_home-1.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\general\preview\01_home-1.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/general/preview/02_home-2.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\general\preview\02_home-2.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/general/preview/03_about.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\general\preview\03_about.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/general/preview/04_services.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\general\preview\04_services.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/general/preview/05_blog.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\general\preview\05_blog.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/general/preview/06_blog-post.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\general\preview\06_blog-post.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/general/preview/07_contact.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\general\preview\07_contact.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/general/preview/08_not-found.jpg
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\general\preview\08_not-found.jpg
+Content Type: image/jpeg
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/general/texture-1.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\general\texture-1.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/general/texture-2.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\general\texture-2.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/general/ui-decor-1.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\general\ui-decor-1.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/general/ui-decor-1_wh.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\general\ui-decor-1_wh.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/media/general/ui-decor-2.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\media\general\ui-decor-2.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/animate/animate.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\animate\animate.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/bootstrap-select/css/bootstrap-select.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\bootstrap-select\css\bootstrap-select.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/bootstrap-select/js/bootstrap-select.min.js
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\bootstrap-select\js\bootstrap-select.min.js
+Content Type: application/javascript
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/bxslider/images/bx_loader.gif
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\bxslider\images\bx_loader.gif
+Content Type: image/gif
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/bxslider/images/controls.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\bxslider\images\controls.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/bxslider/jquery.bxslider.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\bxslider\jquery.bxslider.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/bxslider/jquery.bxslider.min.js
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\bxslider\jquery.bxslider.min.js
+Content Type: application/javascript
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/bxslider/vendor/jquery.easing.1.3.js
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\bxslider\vendor\jquery.easing.1.3.js
+Content Type: application/javascript
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/bxslider/vendor/jquery.fitvids.js
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\bxslider\vendor\jquery.fitvids.js
+Content Type: application/javascript
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/contact_me.js
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\contact_me.js
+Content Type: application/javascript
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/flowplayer/skin/fonts/fpicons.eot?
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\flowplayer\skin\fonts\fpicons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/flowplayer/skin/fonts/fpicons.eot?yg5dv7
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\flowplayer\skin\fonts\fpicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/flowplayer/skin/fonts/fpicons.svg?yg5dv7
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\flowplayer\skin\fonts\fpicons.svg
+Content Type: image/svg+xml
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/flowplayer/skin/fonts/fpicons.ttf?yg5dv7
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\flowplayer\skin\fonts\fpicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/flowplayer/skin/fonts/fpicons.woff?yg5dv7
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\flowplayer\skin\fonts\fpicons.woff
+Content Type: font/x-woff
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/flowplayer/skin/img/flowplayer.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\flowplayer\skin\img\flowplayer.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/flowplayer/skin/img/flowplayer@2x.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\flowplayer\skin\img\flowplayer@2x.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/flowplayer/skin/img/play_white@x2.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\flowplayer\skin\img\play_white@x2.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/flowplayer/skin/img/play_white_rtl.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\flowplayer\skin\img\play_white_rtl.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/flowplayer/skin/img/play_white_rtl@x2.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\flowplayer\skin\img\play_white_rtl@x2.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/flowplayer/skin/playful.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\flowplayer\skin\playful.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/headers/header.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\headers\header.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/headers/header.js
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\headers\header.js
+Content Type: application/javascript
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/headers/slidebar.js
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\headers\slidebar.js
+Content Type: application/javascript
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/headers/yamm.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\headers\yamm.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/isotope/imagesLoaded.js
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\isotope\imagesLoaded.js
+Content Type: application/javascript
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/isotope/isotope.pkgd.min.js
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\isotope\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/jqBootstrapValidation.js
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\jqBootstrapValidation.js
+Content Type: application/javascript
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/magnific-popup/jquery.magnific-popup.min.js
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\magnific-popup\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/magnific-popup/magnific-popup.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\magnific-popup\magnific-popup.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/owl-carousel/AjaxLoader.gif
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\owl-carousel\AjaxLoader.gif
+Content Type: image/gif
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/owl-carousel/grabbing.png
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\owl-carousel\grabbing.png
+Content Type: image/png
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/owl-carousel/owl.carousel.min.js
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\owl-carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/owl-carousel/owl.theme.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\owl-carousel\owl.theme.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/parallax/parallax.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\parallax\parallax.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/rendro-easy-pie-chart/jquery.easypiechart.min.js
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\rendro-easy-pie-chart\jquery.easypiechart.min.js
+Content Type: application/javascript
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/rendro-easy-pie-chart/waypoints.min.js
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\rendro-easy-pie-chart\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/scrollreveal/scrollreveal.js
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\scrollreveal\scrollreveal.js
+Content Type: application/javascript
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/scrollreveal/scrollreveal.min.js
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\scrollreveal\scrollreveal.min.js
+Content Type: application/javascript
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/slider-pro/images/closedhand.cur
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\slider-pro\images\closedhand.cur
+Content Type: application/octet-stream
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/slider-pro/images/openhand.cur
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\slider-pro\images\openhand.cur
+Content Type: application/octet-stream
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/slider-pro/jquery.sliderPro.min.js
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\slider-pro\jquery.sliderPro.min.js
+Content Type: application/javascript
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/slider-pro/slider-pro.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\slider-pro\slider-pro.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/stellar/jquery.stellar.min.js
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\stellar\jquery.stellar.min.js
+Content Type: application/javascript
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/switcher/css/color1.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\switcher\css\color1.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/switcher/css/color2.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\switcher\css\color2.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/switcher/css/color3.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\switcher\css\color3.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/switcher/css/color4.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\switcher\css\color4.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/switcher/css/color5.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\switcher\css\color5.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/switcher/css/switcher.css
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\switcher\css\switcher.css
+Content Type: text/css
+
+Uri: https://file03.16sucai.com/web/2016/12/005/assets/plugins/switcher/js/dmss.js
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\assets\plugins\switcher\js\dmss.js
+Content Type: application/javascript
+
+Uri: https://file03.16sucai.com/web/2016/12/005/blog-main.html
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\blog-main.html
+Content Type: text/html
+
+Uri: https://file03.16sucai.com/web/2016/12/005/blog-post.html
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\blog-post.html
+Content Type: text/html
+
+Uri: https://file03.16sucai.com/web/2016/12/005/contact.html
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\contact.html
+Content Type: text/html
+
+Uri: https://file03.16sucai.com/web/2016/12/005/favicon.ico
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://file03.16sucai.com/web/2016/12/005/headers.html
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\headers.html
+Content Type: text/html
+
+Uri: https://file03.16sucai.com/web/2016/12/005/home-2.html
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\home-2.html
+Content Type: text/html
+
+Uri: https://file03.16sucai.com/web/2016/12/005/home.html
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\home.html
+Content Type: text/html
+
+Uri: https://file03.16sucai.com/web/2016/12/005/privacy-policy.html
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\privacy-policy.html
+Content Type: text/html
+
+Uri: https://file03.16sucai.com/web/2016/12/005/services.html
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\services.html
+Content Type: text/html
+
+Uri: https://file03.16sucai.com/web/2016/12/005/terms-of-use.html
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\terms-of-use.html
+Content Type: text/html
+
+Uri: https://file03.16sucai.com/web/2016/12/005/typography.html
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\web\2016\12\005\typography.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Lato:100,300,400,400i,700,900|Poppins:300,400,500,600,700|PT+Serif:400,400i,700,700i
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHh30AXC-v.ttf
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\s\lato\v23\S6u8w4BMUTPHh30AXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\s\lato\v23\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\s\lato\v23\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\s\lato\v23\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\s\lato\v23\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wWw.ttf
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\s\lato\v23\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptserif/v17/EJRQQgYoZZY2vCFuvAFT9gaQZynfpQ.ttf
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\s\ptserif\v17\EJRQQgYoZZY2vCFuvAFT9gaQZynfpQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptserif/v17/EJRSQgYoZZY2vCFuvAnt66qSVy4.ttf
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\s\ptserif\v17\EJRSQgYoZZY2vCFuvAnt66qSVy4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptserif/v17/EJRTQgYoZZY2vCFuvAFT_r21dw.ttf
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\s\ptserif\v17\EJRTQgYoZZY2vCFuvAFT_r21dw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptserif/v17/EJRVQgYoZZY2vCFuvAFWzro.ttf
+File Name: D:\ToolBox\WebCopy\copyWeb\file03.16sucai.com\s\ptserif\v17\EJRVQgYoZZY2vCFuvAFWzro.ttf
+Content Type: font/ttf
+

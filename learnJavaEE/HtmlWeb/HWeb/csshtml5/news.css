@@ -1,0 +1,51 @@
+.content{
+    width: 60%;
+    margin: auto;
+    float: left;
+    /*text-align: center;*/
+}
+.top{
+    background: black;
+    line-height: 40px;
+    text-align: right;
+    font-size: 20px;
+}
+.top a{
+    color: white;   /*超链接颜色*/
+
+}
+
+a{
+    text-decoration: none;  /*去除下划线*/
+    color: black;           /*超链接颜色*/
+}
+
+.left{
+    text-align: center;
+    width: 20%;
+    float: left;
+}
+.right{
+    width: 20%;
+    height: 50px;
+    float: left;
+}
+span{
+    vertical-align: 50%;
+}
+
+.foot{
+    clear: both;
+    background-color: blue;
+    text-align: center;
+}
+.foot a{
+    color: white;
+}
+a:hover{
+    color: red; /*悬浮颜色*/
+}
+
+
+/* 加载顺序问题
+   类选择  id选择 伪类选择器的优先权 */

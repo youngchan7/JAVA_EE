@@ -24,7 +24,8 @@ public class Constant
 		travelType();
 		System.out.println("*****************数据类型***************");
 		dataType();
-
+		System.out.println("*****************包装类的比较案例***************");
+		packagingClass();
 		System.out.println("*****************运算符***************");
 
 		operationMethod();
@@ -48,6 +49,40 @@ public class Constant
 		shortCircuitMethod();
 		System.out.println("*****************三目运算符 ***************");
 		threeOrderOperator();
+
+	}
+
+	private static void packagingClass() {
+		Integer i = 56;
+		Double  d = 56.0;
+		Float   f =  56f;
+		int i2 = 56;
+		double  d2 = 56.0;
+		float   f2 =  56f;
+//		不同类型不能比较
+//		System.out.println( i == d);
+//		System.out.println( i == f);
+//		System.out.println( f == d);
+//
+//		包装类的equals 添加了 类型判断
+		System.out.println( i .equals( d));
+		System.out.println( i .equals( f));
+		System.out.println( f .equals( d));
+//		i 在比较时自动拆箱了
+		System.out.println( i == i2);
+		System.out.println( i == d2);
+		System.out.println( i == f2);
+		System.out.println( i .equals( i2));
+//		不同数据类型操作不会自动拆箱
+		System.out.println( i .equals( d2));
+		System.out.println( i .equals( f2));
+//		数据类型自动提升
+		System.out.println(i2 == d2);
+		System.out.println(i2 == f2);
+		System.out.println(d2 == f2);
+
+
+
 
 	}
 

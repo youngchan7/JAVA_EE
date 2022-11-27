@@ -9,7 +9,7 @@ import java.util.UUID;
  * @version V1.0
  * @Package com.youngchan.net.scket
  * @date 2022/11/21 22:39
- * @Description //TODO
+ * @Description // 根据 socket 获取其中内容 并 响应信息
  */
 public class SocketServiceThread extends Thread{
     private  Socket accept;

@@ -5,7 +5,7 @@ package com.youngchan.annotation;
  * @version V1.0
  * @Package com.youngchan.annotation
  * @date 2022/11/22 20:04
- * @Description //TODO
+ * @Description //添加注解  注解的具体使用方式
  */
 @MyAnnotation(value = "我的注解类",flog = false,numFLoat = 6.6f)
 public class UseAnnotation {
